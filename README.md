@@ -1,3 +1,3 @@
 ## Trailer-Remote-AC combined by simonttp78
 
-This project is simple compilation of open source project and combine reading DS18B20 temperature sensor with presenting output via web server. In addition it allows to control: on/off, increase and decrease water cooling system in the trailer used for dogs transportation.
+This project combines open source available projects (reading DS18B20 temperature sensor, Async web server with websockets) in order to preset temperature in trailer (Metbox) for dogs transporation. The goal is to evolve project into remote control system allows to monitor and control temperature remotely from the car using WebUI.
